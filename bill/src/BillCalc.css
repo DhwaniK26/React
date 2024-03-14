@@ -1,0 +1,17 @@
+.maindiv{
+    background: rgb(254, 242, 219);
+    width: 450px;
+    height: 350px;
+}
+
+.inp{
+    width: 120px;
+    height: 35px;
+    border: rgb(244, 198, 113) 1px solid;
+    border-radius: 2px;
+}
+
+.mybtn{
+    background-color: orange;
+    width: 120px;
+}

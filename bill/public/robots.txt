@@ -1,0 +1,15 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+  //------------------------------------------------------------------------------------------
+    // var liElements = document.querySelectorAll('.dynamic-li');
+    
+    // liElements.forEach(function(liElement, ind) {
+    //   console.log("jjjjj",ind);
+    //    //mynames.map((ele)=>liElement.textContent == ele ? namefunc(liElement.textContent) : console.log("noo"))
+    //    mynames.map((ele)=>liElement.textContent == ele ? setindex(mynames.indexOf(ele)): console.log("noo"));
+
+    //showboxfunc(<BillCalc billname={namedata} />)
+    
+    // });
